@@ -8,8 +8,8 @@
     {
       "name": "fulls1z3-skills",
       "source": "./",
-      "description": "grilling: a decision interview through question cards",
-      "version": "0.1.0"
+      "description": "Question-card design interviews, project glossaries, architecture decisions and codebase architecture reviews.",
+      "version": "0.2.1"
     }
   ]
 }

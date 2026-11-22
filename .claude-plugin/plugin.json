@@ -1,7 +1,7 @@
 {
   "name": "fulls1z3-skills",
-  "version": "0.1.0",
-  "description": "Skills shared by Claude Code and claude.ai: grilling, a decision interview through question cards.",
+  "version": "0.2.1",
+  "description": "Question-card design interviews, project glossaries, architecture decisions and codebase architecture reviews.",
   "author": {
     "name": "Burak Tasci"
   },
